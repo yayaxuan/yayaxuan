@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @yayaxuan
-- 👀 I’m interested in drones
-- 🌱 I’m currently learning at Changzhou University
 - 📫 How to reach me 1971917677@qq.com
 
 <!---
